@@ -30,5 +30,6 @@ data/
 .env.local
 
 # SOP16 hook artifacts
-*.bak-pre-sop16
+*.bak-pre-*
 .sop16-check.sh
+*.db
